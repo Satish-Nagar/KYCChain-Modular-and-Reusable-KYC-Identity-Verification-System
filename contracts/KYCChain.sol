@@ -1,5 +1,5 @@
 // SPDX-License-Identifier 
-//this is my new feature.
+
 pragma solidity ^0.8.17;
 
 contract KYCChain {
