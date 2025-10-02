@@ -1,5 +1,4 @@
-// SPDX-License-Identifier 
-mit
+// SPDX-License-Identifier mit
 pragma solidity ^0.8.17;
 
 contract KYCChain {
