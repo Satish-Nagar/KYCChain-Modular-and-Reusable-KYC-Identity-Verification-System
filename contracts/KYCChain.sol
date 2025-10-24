@@ -1,5 +1,5 @@
 ki// SPDX-License-Identifier 
-mit
+mitTY
 pragma solidity ^0.8.17;
 
 contract KYCChain {
