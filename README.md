@@ -8,7 +8,7 @@ KYCChain is a decentralized smart contract that provides a secure and reusable o
 
 To become a unified standard for on-chain KYC that enables developers and organizations to verify and trust users through a single decentralized protocol, reducing costs, fraud, and data duplication.
 
-## ✨ Key Features
+## ✨ Key Featuress
 
 - 🔒 On-chain user verification management
 - 🧩 Modular architecture for easy integration
