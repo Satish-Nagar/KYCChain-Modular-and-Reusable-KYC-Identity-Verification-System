@@ -12,7 +12,7 @@ contract KYCChain {
     constructor() {
         admin = msg.sender;
     }
-
+ 
     modifier onlyAdmin() {
         require(msg.sender == admin, "Only admin can perform this action");
         _;
